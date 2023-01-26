@@ -1,4 +1,5 @@
 '''
+cron: 5 0 * * *
 new Env('四川现代中台健康打卡_wbq');
 '''
 import requests
